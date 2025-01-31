@@ -12,10 +12,16 @@
 
 
 
-يوجد أكثر من نسخة من "القرآن الكريم - المنشاوي المعلم للأطفال"، وهي كالتالي:
 
-- نسخة تحتوي على سورة النبأ إلى سورة الناس. [تحميل النسخة](https://github.com/mp30quran/al-manshawi-kids-quran-juz-am)
-- نسخة تحتوي على القرآن الكريم كاملًا. [تحميل النسخة](https://github.com/mp30quran/menshawy_molem_full)
+
+# **القرآن الكريم -  المنشاوي المعلم للأطفال (بدون إعلانات)**
+
+| النسخة               | المنصة                | رابط التحميل                                                                                         |
+|-----------------------|-----------------------|------------------------------------------------------------------------------------------------------|
+| نسخة Huawei           | هواوي آب جاليري      | [تحميل من Huawei AppGallery](https://github.com/mp30quran/al-manshawi-kids-quran-juz-am/releases/download/v1-huawei/al-manshawi-kids-quran-juz-am-v1-huawei.apk) |
+| نسخة Google Play      | جوجل بلاي            | [تحميل من Google Play](https://github.com/mp30quran/al-manshawi-kids-quran-juz-am/releases/download/v1.15/al-manshawi-kids-quran-juz-am_v1.15.apk) |
+| نسخة Google Drive     | حجم كبير رابط عام            | [تحميل من Google Drive](https://drive.google.com/file/d/1_CAtWLmjazrqmx7rGYsd2J3cmGVaJQeL/view?usp=sharing) |
+
 
 
 
